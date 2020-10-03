@@ -1,7 +1,7 @@
 # Test-Dumbways-Batch-19-Kloter-2
 
 ## Software yang butuhkan !! :
-1. MYSQL SERVER
+1. XAMPP (untuk MYSQL Server)
 2. NodeJs
 3. NPM
 
